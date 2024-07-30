@@ -31,10 +31,10 @@
   font-size: 58px;
 }
 
-.weather img {
-  height: 78px;
+.weather canvas {
   float: inline-start;
   margin-right: 5px;
+  margin-top: 5px;
 }
 .weather .unit {
   color: rgb(35, 35, 35);
