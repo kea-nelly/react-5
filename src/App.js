@@ -9,12 +9,18 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/kea-nelly">Kealeboga Nelly Serapane </a>{" "}
+          <a
+            href="https://github.com/kea-nelly"
+            target="_blank"
+            rel=" nooperner noreferrer"
+          >
+            Kealeboga Nelly Serapane{" "}
+          </a>{" "}
           and is{" "}
           <a
             href="https://github.com/kea-nelly/react-5"
             target="_blank"
-            rel="noreferrer"
+            rel=" nooperner noreferrer"
           >
             open- sourced on Github
           </a>
